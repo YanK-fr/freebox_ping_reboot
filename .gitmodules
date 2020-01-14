@@ -1,0 +1,3 @@
+[submodule "reboot-fbx"]
+	path = reboot-fbx
+	url = https://github.com/kmmndr/reboot-fbx.git
