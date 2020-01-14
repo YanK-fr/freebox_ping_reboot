@@ -1,4 +1,4 @@
-# freebox_ping_reboot
+# Freebox Delta et révolution
 Reboot la Freebox si plus de ping (delta, révolution)
 
 1. Copiez en local
