@@ -3,6 +3,7 @@ Reboot la Freebox si plus de ping (delta, révolution)
 
 1. Copiez en local
 ```shell
+sudo apt install git
 git clone https://github.com/YanK-fr/freebox_ping_reboot.git
 ```
 2. Lancez au moins 1 fois reboot-fbx.sh et valider l'autorisation sur la Freebox
