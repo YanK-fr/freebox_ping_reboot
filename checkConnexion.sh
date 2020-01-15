@@ -13,7 +13,7 @@ else
   else
     echo "reboot"
     # echo $NOW" - REBOOT FREEBOX !!!!" >> /var/log/error_check_connexion.log
-    ./reboot-fbx/reboot-fbx.sh
+    /home/ubuntu/reboot-fbx/reboot-fbx.sh
   fi
 fi
 
