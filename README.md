@@ -14,6 +14,9 @@ git clone https://github.com/YanK-fr/freebox_ping_reboot.git
 N'hésitez pas à lire le README de [reboot-fbx](https://github.com/kmmndr/reboot-fbx)
 
 4. Puis ajouter checkConnexion.sh dans un CRON
+```shell
+crontab -e
+```
 Exemple :
 ```
 */5 *   * * *   ubuntu /home/ubuntu/checkConnexion.sh
